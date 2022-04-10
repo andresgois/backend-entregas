@@ -54,6 +54,9 @@
 
 ### Cadastro de entregas
 
+- yarn prisma migrate dev
+- alter_table_deliveries
+
 ### Middleware de cliente autenticado
 
 ### Busca de entregas sem deliveryman atrelado
